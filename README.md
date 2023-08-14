@@ -1,5 +1,4 @@
-# WebD-Selection-Task-2
-# Welcome to my GeekHaven selection project GitHub Repository! 👋
+# Welcome to my GeekHaven WebD-Selection-Task-2 project GitHub Repository! 👋
 
 ## Personal Information
 - **Name:** Amaresh Prasad
