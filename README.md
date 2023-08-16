@@ -40,7 +40,7 @@ Welcome to the documentation for the Django Social Media App. This documentation
 
 Before you begin, ensure you have the following installed:
 
-- Python (3.6+)
+- Python
 - Django
 - Django Rest Framework
 
