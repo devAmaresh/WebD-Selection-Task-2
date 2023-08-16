@@ -84,7 +84,7 @@ Access the Django admin panel at `/admin/` to manage users, posts, communities, 
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
 
-Link to project live::[Deployed site](https://amareshh.pythonanywhere.com/)
+-Link to project live::[Deployed site](https://amareshh.pythonanywhere.com/) endpoint.
 **Disclaimer:** Please note that this site is still under development. I'm continuously working to improve it, and any feedback or suggestions are welcome!
 
 Feel free to explore my repository to see the progress of my project. If you have any questions or want to connect with me, you can reach me via WhatsApp or through GitHub discussions.
