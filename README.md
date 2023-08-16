@@ -86,7 +86,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Live Deployed Site
 
-Check out the live version of the social media website: [Deployed site](https://amareshh.pythonanywhere.com/){:target="_blank"}
+Check out the live version of the social media website: <a href="https://amareshh.pythonanywhere.com/" target="_blank">Deployed site</a>
 
 **Disclaimer:** Please note that this site is still under development. I'm continuously working to improve it, and any feedback or suggestions are welcome!
 
