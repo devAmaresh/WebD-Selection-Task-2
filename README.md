@@ -51,7 +51,12 @@ Before you begin, ensure you have the following installed:
    ```sh
    git clone https://github.com/yourusername/WebD_final.git
    cd WebD_final
-
+2.Run the commands:
+```sh
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+``` 
 
 ## Usage
 
