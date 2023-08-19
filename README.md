@@ -49,7 +49,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/WebD_final.git
+   git clone https://github.com/devAmaresh/WebD_final.git
    cd WebD_final
 2.Run the commands:
 ```sh
